@@ -1,0 +1,6 @@
+{
+  "name": "Tuproq — Navoiy laboratoriya tahlillari",
+  "description": "Navoiy viloyatining besh tumani bo‘yicha 99 ta tuproq hisoboti, laboratoriya o‘lchovlari va asl PDF hujjatlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
